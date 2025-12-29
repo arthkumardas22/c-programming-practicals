@@ -6,7 +6,7 @@ This repository contains all C programming practical programs as per the college
 - Name: Arth Kumar Das
 - Subject: C Programming
 - Semester: 1
-- College: (Add your college name)
+- College: RISU Bhilai
 
 ## 📂 Practical List
 1. First C Program
